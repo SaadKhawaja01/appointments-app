@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "target": "esnext",
+    "moduleResolution": "node",
+    "declaration": true,
+    "outDir": "./sdk/dist"
+  },
+  "include": ["src/app/**/*.dto.ts", "src/app/**/*.sdk.ts", "src/app/**/*.api.ts" ],
+  "exclude": ["node_modules", "test", "dist","sdk", ".vscode"]
+}

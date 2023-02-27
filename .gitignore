@@ -1,0 +1,6 @@
+/node_modules
+/dist
+/sdk/dist/node_modules
+/sdk/dist
+/src/core/config
+.env

@@ -1,0 +1,12 @@
+{
+  "name": "plurppl-sdk",
+  "version": "0.0.90",
+  "main": "dist/app/index.sdk.d.ts",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "author": "",
+  "license": "ISC"
+}
